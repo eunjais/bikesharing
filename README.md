@@ -2,6 +2,8 @@
 
 ## Overview
 
+TABLEAU LINK HERE: https://public.tableau.com/app/profile/eun.jai.shin/viz/NYCBikeSharing_16641447636800/NYCCitiBikeAug2019?publish=yes
+
 This analysis project seeks to visualize the data of Citi Bike's bike share program, specifically during August 2019 in NYC. Using Tableau and Pandas, we attempt to discern the different gender-related data on:
 - checkout bikes, time and gender distribution
 - bike usage during the week by day and hour, by gender
